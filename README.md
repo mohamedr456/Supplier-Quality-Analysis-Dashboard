@@ -74,7 +74,7 @@ As part of a collaborative team project, I worked on:
 DefectedQty = SUM('Defects'[Quantity])
 DowntimeHours = SUM('Production'[Downtime])
 DefectRate = DIVIDE(SUM('Defects'[Quantity]), SUM('Orders'[Total]))
-
+```
 
 ## 🔍 Data Source
 
